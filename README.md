@@ -160,7 +160,7 @@ Bot de automatización en **Python** con **Selenium**. Arquitectura modular de 6
     <td align="center"><img src="https://flagcdn.com/w40/es.png" width="30" alt="ES" /><br><b>Castellano</b><br><code>Nativo</code></td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Catalonia.svg/40px-Flag_of_Catalonia.svg.png" width="30" alt="CA" /><br><b>Catalán</b><br><code>Nativo</code></td>
     <td align="center"><img src="https://flagcdn.com/w40/ro.png" width="30" alt="RO" /><br><b>Rumano</b><br><code>Nativo</code></td>
-    <td align="center"><img src="https://flagcdn.com/w40/us.png" width="30" alt="EN" /><br><b>Inglés</b><br><code>B1</code></td>
+    <td align="center"><img src="https://flagcdn.com/w40/us.png" width="30" alt="EN" /><br><b>Inglés</b><br><code>B2</code></td>
   </tr>
 </table>
 </div>
