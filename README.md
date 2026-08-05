@@ -148,10 +148,6 @@ Bot de automatización en **Python** con **Selenium**. Arquitectura modular de 6
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DevJuanCR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=007ACC&icon_color=007ACC&text_color=FFFFFF&count_private=true" />
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DevJuanCR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=007ACC&text_color=FFFFFF&langs_count=8" />
 
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=DevJuanCR&theme=tokyonight&hide_border=true&background=0D1117&stroke=007ACC&ring=007ACC&fire=007ACC&currStreakLabel=FFFFFF" />
-
 </div>
 
 ---
