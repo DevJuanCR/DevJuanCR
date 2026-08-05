@@ -118,7 +118,7 @@ SPA responsive con **React 18 + Vite** y **Tailwind CSS 4**. Internacionalizaci√
 <img src="https://img.shields.io/badge/C√ìDIGO-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-API REST con **Java Spring Boot** y PostgreSQL, **14 tests** con JUnit 5/Mockito/MockMvc, dashboard en JavaScript con Chart.js, agente Python y despliegue con Docker Compose + GitHub Actions.
+API REST con **Java Spring Boot** y PostgreSQL, **15 tests** con JUnit 5/Mockito/MockMvc, dashboard en JavaScript con Chart.js, agente Python y despliegue con Docker Compose + GitHub Actions.
 
 `Java` `Spring Boot` `Python` `Docker` `PostgreSQL` `JUnit 5`
 
